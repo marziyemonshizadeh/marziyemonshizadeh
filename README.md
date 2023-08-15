@@ -1,3 +1,4 @@
+![logo](https://augnitive.com/wp-content/uploads/2019/10/reactbanner.png)
 <h1 align="center">Hi 👋, I'm Marzieh Monshizadeh</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
