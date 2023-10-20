@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [instagram-clone](https://github.com/marziyemonshizadeh/instagram-clone.git)
 
-- 🌱 I’m currently learning **Typescript and React Libraries**
+- 🌱 I’m currently learning **Typescript and Next js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marziyemonshizadeh](https://github.com/marziyemonshizadeh)
 
