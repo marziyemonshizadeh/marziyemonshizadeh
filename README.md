@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **Javascript , Bootstrap , React js , Redux**
 
-- 📫 How to reach me **marziehmonshizade@yahoo.com**
+- 🖥️  See my portfolio at [https://github.com/marziyemonshizadeh](https://github.com/marziyemonshizadeh)
+  
+- ✉️  You can contact me at [marziehmonshizade@yahoo.com](marziehmonshizade@yahoo.com)
 
 
 <h3 align="left">Connect with me:</h3>
