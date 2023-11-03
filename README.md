@@ -1,6 +1,6 @@
 ![logo](https://augnitive.com/wp-content/uploads/2019/10/reactbanner.png)
 <h1 align="center">Hi 👋, I'm Marzieh Monshizadeh</h1>
-<p align="center">A frontend developer from Iran-tehran</p>
+<p align="center">A Front-End developer from IRAN</p>
  <h2>👩‍💻 &nbsp; About Me</h2>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
