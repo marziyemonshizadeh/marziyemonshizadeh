@@ -1,4 +1,5 @@
-![logo](https://augnitive.com/wp-content/uploads/2019/10/reactbanner.png)
+<!-- ![logo](https://augnitive.com/wp-content/uploads/2019/10/reactbanner.png)--->
+![Header](./img.png)
 <h1 align="center">Hi 👋, I'm Marzieh Monshizadeh</h1>
 <p align="center">A Front-End developer from IRAN <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 </p>
@@ -18,7 +19,6 @@
 - 💬 &nbsp;Ask me about **Javascript , Bootstrap , React js , Redux**
 - 🎓 &nbsp; I have a bachelor's degree in computer engineering
 - 🖥️ &nbsp;See my portfolio at [https://github.com/marziyemonshizadeh](https://github.com/marziyemonshizadeh)
-  
 - ✉️  You can contact me at [marziehmonshizade@yahoo.com](marziehmonshizade@yahoo.com)
 
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
