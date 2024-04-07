@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marziyemonshizadeh&label=Profile%20views&color=0e75b6&style=flat" alt="marziyemonshizadeh" /> </p>
 
-- 🔭  &nbsp;I’m currently working on [portfolio](https://github.com/marziyemonshizadeh/Portfolio.git) and [fullStack-CMS](https://github.com/marziyemonshizadeh/fullStack-CMS.git)
+- 🔭  &nbsp;I’m currently working on [portfolio](https://github.com/marziyemonshizadeh/Portfolio.git)
 
 - 🌱  &nbsp;I’m currently learning **Typescript and Next js**
 
