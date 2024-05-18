@@ -22,7 +22,7 @@ bakery_cafe](https://github.com/marziyemonshizadeh/bakery_cafe.git)
 - 🖥️ &nbsp;See my portfolio at [myPortfolio](https://marziehsportfolio.liara.run/)
 - ✉️  You can contact me at [marziehmonshizade@yahoo.com](marziehmonshizade@yahoo.com)
 
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+- ✍️ &nbsp; Coding , watching movies And Drinking Coffee Are My Hobby :))
 
 </br>
 <h2 align="left">📞 &nbsp;Connect with me:</h2>
