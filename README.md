@@ -17,7 +17,7 @@ bakery_cafe](https://github.com/marziyemonshizadeh/bakery_cafe.git)
 
 - 💻  &nbsp;All of my projects are available at [https://github.com/marziyemonshizadeh](https://github.com/marziyemonshizadeh)
 
-- 💬 &nbsp;Ask me about **Javascript , Bootstrap , React js , Redux**
+- 💬 &nbsp;Ask me about **Javascript , Bootstrap , React js , Redux , next js**
 - 🎓 &nbsp; I have a bachelor's degree in computer engineering
 - 🖥️ &nbsp;See my portfolio at [myPortfolio](https://marziehsportfolio.liara.run/)
 - ✉️  You can contact me at [marziehmonshizade@yahoo.com](marziehmonshizade@yahoo.com)
