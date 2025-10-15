@@ -13,7 +13,7 @@
 - 🔭  &nbsp;I’m currently working on [
 bakery_cafe](https://github.com/marziyemonshizadeh/bakery_cafe.git)
 
-- 🌱  &nbsp;I’m currently learning **clean code**
+- 🌱  &nbsp;I’m currently learning **design pattern**
 
 - 💻  &nbsp;All of my projects are available at [https://github.com/marziyemonshizadeh](https://github.com/marziyemonshizadeh)
 
