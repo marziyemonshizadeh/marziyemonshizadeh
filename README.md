@@ -11,9 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marziyemonshizadeh&label=Profile%20views&color=0e75b6&style=flat" alt="marziyemonshizadeh" /> </p>
 
 - 🔭  &nbsp;I’m currently working on [
-bakery_cafe](https://github.com/marziyemonshizadeh/bakery_cafe.git)
+jira_clone](https://github.com/marziyemonshizadeh/jira-clone.git)
 
-- 🌱  &nbsp;I’m currently learning **design pattern**
+- 🌱  &nbsp;I’m currently learning **design pattern , node js**
 
 - 💻  &nbsp;All of my projects are available at [https://github.com/marziyemonshizadeh](https://github.com/marziyemonshizadeh)
 
