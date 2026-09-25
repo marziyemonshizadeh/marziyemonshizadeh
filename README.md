@@ -14,7 +14,7 @@
 jira_clone](https://github.com/marziyemonshizadeh/jira-clone.git)
 
 - 🌱  &nbsp;I’m currently learning **design pattern , node js**
-
+- 🖥️ Frontend Developer at Sharif University of Technology (ICTC team)
 - 💻  &nbsp;All of my projects are available at [https://github.com/marziyemonshizadeh](https://github.com/marziyemonshizadeh)
 
 - 💬 &nbsp;Ask me about **Javascript , React js , Redux , next js , typescript , electron js , pwa , socket.io**
